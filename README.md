@@ -9,7 +9,7 @@ L'objectif, c'est de répertorier les packages qui permettent de travailler avec
 * [proustr](https://github.com/ColinFay/proustr) par @ColinFay :  outils pour le traitement du langage en français, et corpus de textes de Proust.
 * [rgeoapi](https://github.com/ColinFay/rgeoapi) par @ColinFay : un client R pour l'[API Géo](https://api.gouv.fr/api/api-geo.html)
 * [banR](https://github.com/joelgombin/banR) par @joelgombin et @pachevalier : géocoder des données avec la base adresse nationale
-* [openentreprise](https://github.com/pachevalier/openentreprise) par @pachevalier : accéder aux données des entreprises avec [opentreprise.fr](opentreprise.fr) 
+* [openentreprise](https://github.com/pachevalier/openentreprise) par @pachevalier : accéder aux données des entreprises avec [openentreprise.fr](http://openentreprise.fr) 
 * [COGugaison](https://github.com/antuki/COGugaison) par @antuki : accéder au code officiel géographique
 
 ## Ressources pédagogiques
