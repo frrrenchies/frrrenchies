@@ -33,7 +33,7 @@ Cours hébergés par *France université numérique* :
 
 ### Chat et discussions instantanées
 
-* [r-grrr](https://r-grrr.slack.com) : communauté Slack francophone ouverte à tous, notamment aux débutants. Pour rejoindre les discussions, suivre le lien d'invitation : https://frama.link/r-grrr
+* [grrr](https://r-grrr.slack.com) : communauté Slack francophone ouverte à tous, notamment aux débutants. Pour rejoindre les discussions, suivre le lien d'invitation : https://frama.link/r-grrr
 
 ### Listes mail
 
