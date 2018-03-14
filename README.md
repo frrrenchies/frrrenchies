@@ -1,4 +1,4 @@
-# frrrenchies
+# :rooster: frrrenchies :rooster:
 Liste de ressources R utiles pour les Français
 
 ## Packages
