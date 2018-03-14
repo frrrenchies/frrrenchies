@@ -5,19 +5,17 @@ L'objectif, c'est de répertorier les packages qui permettent de travailler avec
 
 ## Packages
 
-* [fodr](https://github.com/Tutuchan/fodr) : faciliter l'accès aux portails *Open data* français. 
-* [proustr](https://github.com/ColinFay/proustr) : outils pour le traitement du langage en français, et corpus de textes de Proust.
-* [rgeoapi](https://github.com/ColinFay/rgeoapi) : accéder à l'API [GeoAPI](https://api.gouv.fr/explorer/geoapi/)
-* [banR](https://github.com/joelgombin/banR) : géocoder des données avec la base adresse nationale
-* [openentreprise](https://github.com/pachevalier/openentreprise) : accéder aux données des entreprises avec [opentreprise.fr](opentreprise.fr) 
-* [COGugaison](https://github.com/antuki/COGugaison) : accéder au code officiel géographique
+* [fodr](https://github.com/Tutuchan/fodr) par @Tutuchan : un client pour accéder à l'API d'opendatasoft et récupérer les données de différents portails open data français 
+* [proustr](https://github.com/ColinFay/proustr) par @ColinFay :  outils pour le traitement du langage en français, et corpus de textes de Proust.
+* [rgeoapi](https://github.com/ColinFay/rgeoapi) par @ColinFay : un client R pour l'[API Géo](https://api.gouv.fr/api/api-geo.html)
+* [banR](https://github.com/joelgombin/banR) par @joelgombin et @pachevalier : géocoder des données avec la base adresse nationale
+* [openentreprise](https://github.com/pachevalier/openentreprise) par @pachevalier : accéder aux données des entreprises avec [opentreprise.fr](opentreprise.fr) 
+* [COGugaison](https://github.com/antuki/COGugaison) par @antuki : accéder au code officiel géographique
 
 ## Ressources pédagogiques
 
-### Documents
-
 * [Introduction à R et au tidyverse](https://juba.github.io/tidyverse/) par @juba
-* [Programmer en R](https://fr.wikibooks.org/wiki/Programmer_en_R), wikibook collaboratif
+* [Programmer en R](https://fr.wikibooks.org/wiki/Programmer_en_R), wikibook collaboratif (licence CC-BY-SA)
 * [Introduction à l'analyse d'enquêtes avec R et RStudio](http://larmarange.github.io/analyse-R/) par @larmarange
 * [R et espace](https://framabook.org/r-et-espace/) : manuel d’initiation à la programmation avec R appliqué à l’analyse de l’information géographique, librement téléchargeable en ligne.
 * Le [pôle bioinformatique lyonnais](http://pbil.univ-lyon1.fr/R/) propose depuis longtemps une somme très importante de documents, qui comprend des cours complets de statistiques utilisant R.
