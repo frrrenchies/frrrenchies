@@ -44,7 +44,7 @@ Cours hébergés par *France université numérique* :
 
 * [grrr](https://r-grrr.slack.com) : communauté Slack francophone ouverte à tous, notamment aux débutants. Pour rejoindre les discussions, suivre le lien d'invitation : https://frama.link/r-grrr
 
-### Listes mail
+### :email: Listes mail :email:
 
 * [semin-r](https://listes.mnhn.fr/wws/subscribe/semin-r) : liste de discussion du groupe des utilisateurs de R animé par le Muséum national d’Histoire naturelle.
 * [r-soc](https://groupes.renater.fr/sympa/subscribe/r-soc) : liste dédiée aux utilisateurs de R en sciences sociales.
