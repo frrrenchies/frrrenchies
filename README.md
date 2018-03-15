@@ -15,6 +15,7 @@ L'objectif, c'est de répertorier les packages qui permettent de travailler avec
 ## :book: Ressources pédagogiques :book:
 
 * [Introduction à R et au tidyverse](https://juba.github.io/tidyverse/) par @juba
+* [Logiciel R et programmation](http://egallic.fr/Enseignement/R/m1_stat_eco_logiciel_R.pdf) par @3wen
 * [Programmer en R](https://fr.wikibooks.org/wiki/Programmer_en_R), wikibook collaboratif (licence CC-BY-SA)
 * [Introduction à l'analyse d'enquêtes avec R et RStudio](http://larmarange.github.io/analyse-R/) par @larmarange
 * [R et espace](https://framabook.org/r-et-espace/) : manuel d’initiation à la programmation avec R appliqué à l’analyse de l’information géographique, librement téléchargeable en ligne.
