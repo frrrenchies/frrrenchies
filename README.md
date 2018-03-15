@@ -14,6 +14,7 @@ L'objectif, c'est de répertorier les packages qui permettent de travailler avec
 * [prenoms](https://github.com/ThinkR-open/prenoms) par @ThinkR-open : les [données des prénoms](https://www.data.gouv.fr/fr/datasets/fichier-des-prenoms-edition-2016/) dans un package R
 * [legislatives2017](https://github.com/ThinkR-open/legislatives2017) par @ThinkR-open : les données des élections législatives dans un package R
 * [CARTElette](https://github.com/antuki/CARTElette) : accès aux couches GeoFLA
+* [lexiquer](https://github.com/ColinFay/lexiquer) : Un wrapper autour de la base de données lexicale Lexique 3.81.
 
 ## :book: Ressources pédagogiques :book:
 
@@ -31,6 +32,12 @@ Cours hébergés par *France université numérique* :
 * [Introduction à la statistique avec R](https://www.fun-mooc.fr/courses/course-v1:UPSUD+42001+session08/about)
 * [Analyse des données multidimensionnelles](https://www.fun-mooc.fr/courses/agrocampusouest/40001S03/session03/about)
 
+### Slides de conférences 
+
+* [Le text-mining expliqué à ma grand mère](https://github.com/ColinFay/conf/blob/master/2017-11-breizh-data-club/fay_colin_tm_explique_grand_mere.pdf) - @ColinFay, Meetup du Breizh Data Club
+
+* [Les API, un enfeR ?](https://github.com/ColinFay/conf/blob/master/2017-06-Anglet/api_enfer_colin_fay_thinkr.pdf) - @ColinFay, Rencontres R 2017
+
 ## Entraide et échanges
 
 ### Chat et discussions instantanées
@@ -45,10 +52,18 @@ Cours hébergés par *France université numérique* :
 ### Forums
 
 * [Forum du Cirad](http://forums.cirad.fr/logiciel-R/) : forum du groupe des utilisateurs de R du Cirad, ouvert à tous.
+* [Abcd'R](https://abcdr.guyader.pro/) : Site collaboratif de partage de scrit en français
+
+## Meetup 
+
+* [Paris R-Addict](https://www.meetup.com/fr-FR/rparis/)
+* [Meetup R Nantes](https://www.meetup.com/fr-FR/Meetup-R-Nantes/)
+* [Meetup R Nantes](https://www.meetup.com/fr-FR/Meetup-R-Nantes/)
 
 ## Séminaires et conférences
 
 * [Conférences semin-r](http://rug.mnhn.fr/semin-r/) : conférences du groupe des utilisateurs de R animé par le Muséum national d’Histoire naturelle.
-
 * [Séminaire RUSS](https://russ.site.ined.fr/fr/) : séminaires R à l'Usage des Sciences Sociales (EHESS, INED et CNRS). 
+* [Rencontres R](https://r2018-rennes.sciencesconf.org/) : Les 7eme Rencontres R se tiendront à Rennes du 4 au 6 juillet 2018.
+
 
