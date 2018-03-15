@@ -3,7 +3,7 @@ Liste de ressources R francophones ou utiles pour les Français.
 
 L'objectif, c'est de répertorier les packages qui permettent de travailler avec des données concernant la France et les ressources pédagogiques ou d'entraide.
 
-## Packages
+## :package: Packages :package:
 
 * [fodr](https://github.com/Tutuchan/fodr) par @Tutuchan : un client pour accéder à l'API d'opendatasoft et récupérer les données de différents portails open data français 
 * [proustr](https://github.com/ColinFay/proustr) par @ColinFay :  outils pour le traitement du langage en français, et corpus de textes de Proust.
@@ -12,7 +12,7 @@ L'objectif, c'est de répertorier les packages qui permettent de travailler avec
 * [openentreprise](https://github.com/pachevalier/openentreprise) par @pachevalier : accéder aux données des entreprises avec [openentreprise.fr](http://openentreprise.fr) 
 * [COGugaison](https://github.com/antuki/COGugaison) par @antuki : accéder au code officiel géographique
 
-## Ressources pédagogiques
+## :book: Ressources pédagogiques :book:
 
 * [Introduction à R et au tidyverse](https://juba.github.io/tidyverse/) par @juba
 * [Programmer en R](https://fr.wikibooks.org/wiki/Programmer_en_R), wikibook collaboratif (licence CC-BY-SA)
@@ -20,7 +20,7 @@ L'objectif, c'est de répertorier les packages qui permettent de travailler avec
 * [R et espace](https://framabook.org/r-et-espace/) : manuel d’initiation à la programmation avec R appliqué à l’analyse de l’information géographique, librement téléchargeable en ligne.
 * Le [pôle bioinformatique lyonnais](http://pbil.univ-lyon1.fr/R/) propose depuis longtemps une somme très importante de documents, qui comprend des cours complets de statistiques utilisant R.
 
-### Cours en ligne
+### Cours en ligne 
 
 Cours hébergés par *France université numérique* :
 
