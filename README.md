@@ -1,5 +1,5 @@
 # :rooster: frrrenchies :rooster:
-Liste de ressources R francophones ou utiles pour les français.
+Liste de ressources R francophones ou utiles pour les Français.
 
 L'objectif, c'est de répertorier les packages qui permettent de travailler avec des données concernant la France et les ressources pédagogiques ou d'entraide.
 
