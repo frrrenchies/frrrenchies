@@ -42,3 +42,9 @@ Cours hébergés par *France université numérique* :
 
 * [Forum du Cirad](http://forums.cirad.fr/logiciel-R/) : forum du groupe des utilisateurs de R du Cirad, ouvert à tous.
 
+## Séminaires et conférences
+
+* [Conférences semin-r](http://rug.mnhn.fr/semin-r/) : conférences du groupe des utilisateurs de R animé par le Muséum national d’Histoire naturelle.
+
+* [Séminaire RUSS](https://russ.site.ined.fr/fr/) : séminaires R à l'Usage des Sciences Sociales (EHESS, INED et CNRS). 
+
