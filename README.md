@@ -23,6 +23,8 @@ L'objectif, c'est de répertorier les packages qui permettent de travailler avec
 * [Introduction à l'analyse d'enquêtes avec R et RStudio](http://larmarange.github.io/analyse-R/) par @larmarange
 * [R et espace](https://framabook.org/r-et-espace/) : manuel d’initiation à la programmation avec R appliqué à l’analyse de l’information géographique, librement téléchargeable en ligne.
 * Le [pôle bioinformatique lyonnais](http://pbil.univ-lyon1.fr/R/) propose depuis longtemps une somme très importante de documents, qui comprend des cours complets de statistiques utilisant R.
+* [R for Data Science](http://r4ds.had.co.nz/) par Garrett Grolemund & Hadley Wickham
+* [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) par Gareth James, Daniela Witten, Trevor Hastie & Robert Tibshirani
 
 ### Cours en ligne 
 
