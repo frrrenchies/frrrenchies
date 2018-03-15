@@ -31,6 +31,7 @@ Cours hébergés par *France université numérique* :
 
 * [Introduction à la statistique avec R](https://www.fun-mooc.fr/courses/course-v1:UPSUD+42001+session08/about)
 * [Analyse des données multidimensionnelles](https://www.fun-mooc.fr/courses/agrocampusouest/40001S03/session03/about)
+* [Apprendre R dans R et en francais](https://thinkr.fr/apprendre-r-dans-r-et-en-francais/) par @vincentguyader
 
 ### Slides de conférences 
 
