@@ -12,6 +12,7 @@ L'objectif, c'est de répertorier les packages qui permettent de travailler avec
 * [openentreprise](https://github.com/pachevalier/openentreprise) par @pachevalier : accéder aux données des entreprises avec [openentreprise.fr](http://openentreprise.fr) 
 * [COGugaison](https://github.com/antuki/COGugaison) par @antuki : accéder au code officiel géographique
 * [prenoms](https://github.com/ThinkR-open/prenoms) par @ThinkR-open : les [données des prénoms](https://www.data.gouv.fr/fr/datasets/fichier-des-prenoms-edition-2016/) dans un package R
+* [legislatives2017](https://github.com/ThinkR-open/legislatives2017) par @ThinkR-open : les données des élections législatives dans un package R
 
 ## :book: Ressources pédagogiques :book:
 
