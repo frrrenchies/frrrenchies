@@ -23,6 +23,7 @@ L'objectif est de répertorier les packages qui permettent de travailler avec de
 * [Introduction à l'analyse d'enquêtes avec R et RStudio](http://larmarange.github.io/analyse-R/) par @larmarange
 * [R et espace](https://framabook.org/r-et-espace/) : manuel d’initiation à la programmation avec R appliqué à l’analyse de l’information géographique, librement téléchargeable en ligne.
 * Le [pôle bioinformatique lyonnais](http://pbil.univ-lyon1.fr/R/) propose depuis longtemps une somme très importante de documents, qui comprend des cours complets de statistiques utilisant R.
+* [Introduction à la programmation en R](https://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf)
 
 ### Cours en ligne 
 
@@ -30,14 +31,19 @@ Cours hébergés par *France université numérique* :
 
 * [Introduction à la statistique avec R](https://www.fun-mooc.fr/courses/course-v1:UPSUD+42001+session08/about)
 * [Analyse des données multidimensionnelles](https://www.fun-mooc.fr/courses/agrocampusouest/40001S03/session03/about)
+
+Cours sur DataCamp : 
+
 * [Apprendre R dans R et en francais](https://thinkr.fr/apprendre-r-dans-r-et-en-francais/) par @vincentguyader
+
+Cour sur OpenClassRoom : 
+
+* [Effectuez vos études statistiques avec R](https://openclassrooms.com/courses/effectuez-vos-etudes-statistiques-avec-r)
 
 ### Slides de conférences 
 
 * [Le text-mining expliqué à ma grand mère](https://github.com/ColinFay/conf/blob/master/2017-11-breizh-data-club/fay_colin_tm_explique_grand_mere.pdf) - @ColinFay, Meetup du Breizh Data Club
-
 * [Les API, un enfeR ?](https://github.com/ColinFay/conf/blob/master/2017-06-Anglet/api_enfer_colin_fay_thinkr.pdf) - @ColinFay, Rencontres R 2017
-
 * [Données géographiques et cartographie sous R](https://antuki.github.io/slides/180306_RLadies_COGugaison_carto.html) - @antuki, Meet-Up RLadies Paris, mars 2018
 
 
@@ -52,7 +58,7 @@ Cours hébergés par *France université numérique* :
 * [semin-r](https://listes.mnhn.fr/wws/subscribe/semin-r) : liste de discussion du groupe des utilisateurs de R animé par le Muséum national d’Histoire naturelle.
 * [r-soc](https://groupes.renater.fr/sympa/subscribe/r-soc) : liste dédiée aux utilisateurs de R en sciences sociales.
 
-### Forums
+### Communautaires
 
 * [Forum du Cirad](http://forums.cirad.fr/logiciel-R/) : forum du groupe des utilisateurs de R du Cirad, ouvert à tous.
 * [Abcd'R](https://abcdr.guyader.pro/) : Site collaboratif de partage de scrit en français
@@ -69,4 +75,6 @@ Cours hébergés par *France université numérique* :
 * [Séminaire RUSS](https://russ.site.ined.fr/fr/) : séminaires R à l'Usage des Sciences Sociales (EHESS, INED et CNRS). 
 * [Rencontres R](https://r2018-rennes.sciencesconf.org/) : Les 7eme Rencontres R se tiendront à Rennes du 4 au 6 juillet 2018.
 
+## Bot Twitter : 
 
+* [@talkR_FR](https://twitter.com/talkr_fr) : Un bot twitter retweetant tous les tweets contenant le hashtag #RStatsFR 
