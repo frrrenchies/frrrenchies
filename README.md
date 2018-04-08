@@ -15,7 +15,7 @@ L'objectif est de répertorier les packages qui permettent de travailler avec de
 * [proustr](https://github.com/ColinFay/proustr) par @ColinFay :  outils pour le traitement du langage en français, et corpus de textes de Proust.
 * [rgeoapi](https://github.com/ColinFay/rgeoapi) par @ColinFay : un client R pour l'[API Géo](https://api.gouv.fr/api/api-geo.html)
 
-## :book: Ressources pédagogiques :book:
+## :books: Ressources pédagogiques :books:
 
 * [Introduction à R et au tidyverse](https://juba.github.io/tidyverse/) par @juba
 * [Logiciel R et programmation](http://egallic.fr/Enseignement/R/m1_stat_eco_logiciel_R.pdf) par @3wen
@@ -26,31 +26,40 @@ L'objectif est de répertorier les packages qui permettent de travailler avec de
 * [Introduction à la programmation en R](https://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf)
 * [C'est l'enfeR](https://bioinfo-fr.net/cest-lenfer) donne des exemples de code simple avec R qui donnent des résultats surprenants.
 
-### Cours en ligne 
+### :mortar_board: Cours en ligne :mortar_board: 
 
 Cours hébergés par *France université numérique* :
 
 * [Introduction à la statistique avec R](https://www.fun-mooc.fr/courses/course-v1:UPSUD+42001+session08/about)
 * [Analyse des données multidimensionnelles](https://www.fun-mooc.fr/courses/agrocampusouest/40001S03/session03/about)
 
-Cours sur DataCamp : 
+Cours sur *DataCamp* : 
 
 * [Apprendre R dans R et en francais](https://thinkr.fr/apprendre-r-dans-r-et-en-francais/) par @vincentguyader
 
-Cour sur OpenClassRoom : 
+Cours sur *OpenClassRoom* : 
 
 * [Effectuez vos études statistiques avec R](https://openclassrooms.com/courses/effectuez-vos-etudes-statistiques-avec-r)
 
-### Slides de conférences 
+Cours sur *fun-mooc* : 
 
-* [Le text-mining expliqué à ma grand mère](https://github.com/ColinFay/conf/blob/master/2017-11-breizh-data-club/fay_colin_tm_explique_grand_mere.pdf) - @ColinFay, Meetup du Breizh Data Club
-* [Les API, un enfeR ?](https://github.com/ColinFay/conf/blob/master/2017-06-Anglet/api_enfer_colin_fay_thinkr.pdf) - @ColinFay, Rencontres R 2017
-* [Données géographiques et cartographie sous R](https://antuki.github.io/slides/180306_RLadies_COGugaison_carto.html) - @antuki, Meet-Up RLadies Paris, mars 2018
+* [Le langage R Markdown](https://www.fun-mooc.fr/c4x/UPSUD/42001S02/asset/RMarkdown.html)
 
 
-## Entraide et échanges
+### :scroll: Slides de conférences :scroll:
 
-### Chat et discussions instantanées
+* [Données géographiques et cartographie sous R](https://antuki.github.io/slides/180306_RLadies_COGugaison_carto.html) - @antuki, Meet-Up RLadies Paris, mars 2018  
+* [Le text-mining expliqué à ma grand mère](https://github.com/ColinFay/conf/blob/master/2017-11-breizh-data-club/fay_colin_tm_explique_grand_mere.pdf) - @ColinFay, Meetup du Breizh Data Club  
+* [Les API, un enfeR ?](https://github.com/ColinFay/conf/blob/master/2017-06-Anglet/api_enfer_colin_fay_thinkr.pdf) - @ColinFay, Rencontres R 2017  
+* [Cartographie avec R](http://wukan.ums-riate.fr/r2016/) - Thimothee Giraud @rCarto, [Rencontres R 2016, Toulouse, juin 2016](https://r2016-toulouse.sciencesconf.org/resource/page/id/12), un tutoriel pour s'initier à la carto dans R
+
+### :bookmark: Aides mémoire :bookmark:
+* [Aide mémoire R](http://www.duclert.org/)   
+* [Cheatsheets – RStudio](https://www.rstudio.com/resources/cheatsheets/), des ressources francophones au niveau du bloc *Translation*  
+
+## :speech_balloon: Entraide et échanges :speech_balloon:  
+
+### :cat: Chat et discussions instantanées :cat:
 
 * [grrr](https://r-grrr.slack.com) : communauté Slack francophone ouverte à tous, notamment aux débutants. Pour rejoindre les discussions, suivre le lien d'invitation : https://frama.link/r-grrr
 
@@ -59,23 +68,32 @@ Cour sur OpenClassRoom :
 * [semin-r](https://listes.mnhn.fr/wws/subscribe/semin-r) : liste de discussion du groupe des utilisateurs de R animé par le Muséum national d’Histoire naturelle.
 * [r-soc](https://groupes.renater.fr/sympa/subscribe/r-soc) : liste dédiée aux utilisateurs de R en sciences sociales.
 
-### Communautaires
+### :busts_in_silhouette: Communautaires :busts_in_silhouette:
 
 * [Forum du Cirad](http://forums.cirad.fr/logiciel-R/) : forum du groupe des utilisateurs de R du Cirad, ouvert à tous.
-* [Abcd'R](https://abcdr.guyader.pro/) : Site collaboratif de partage de scrit en français
+* [Abcd'R](https://abcdr.guyader.pro/) : Site collaboratif de partage de scrit en français  
 
-## Meetup 
+### :newspaper: Blogs :newspaper:  
+* [R-atique](http://perso.ens-lyon.fr/lise.vaudor), un certain nombre de ressources, d'astuces et de conseils à ceux souhaitant utiliser R dans leurs travaux de recherche  
+* [Element-R](https://elementr.hypotheses.org/), R pour les sciences humaines et sociales  
+* [Rgeomatique](https://rgeomatic.hypotheses.org/), R pour les travaux de géomatique  
+* [Dacta](http://www.dacta.fr/blog/), qui a pris le relais du blog de [superstaticienne](https://superstatisticienne.fr/)- Statistiques, R et paillettes…  
+ * [ThinkR](https://thinkr.fr/le-blog/), le blog d'une équipe qui pense en R, on y retrouve plusieurs cheatsheets en français dans le texte, parmis d'autres choses tout aussi précieuses  
+ 
+
+
+## :bowtie: Meetup :bowtie: 
 
 * [Paris R-Addict](https://www.meetup.com/fr-FR/rparis/)
 * [Meetup R Nantes](https://www.meetup.com/fr-FR/Meetup-R-Nantes/)
 * [Meetup RLadies Paris](https://www.meetup.com/fr-FR/rladies-paris/)
 
-## Séminaires et conférences
+## :date: Séminaires et conférences :date: 
 
 * [Conférences semin-r](http://rug.mnhn.fr/semin-r/) : conférences du groupe des utilisateurs de R animé par le Muséum national d’Histoire naturelle.
 * [Séminaire RUSS](https://russ.site.ined.fr/fr/) : séminaires R à l'Usage des Sciences Sociales (EHESS, INED et CNRS). 
 * [Rencontres R](https://r2018-rennes.sciencesconf.org/) : Les 7eme Rencontres R se tiendront à Rennes du 4 au 6 juillet 2018.
 
-## Bot Twitter : 
+## :hash: Bot Twitter :hash: 
 
 * [@talkR_FR](https://twitter.com/talkr_fr) : Un bot twitter retweetant tous les tweets contenant le hashtag #RStatsFR 
