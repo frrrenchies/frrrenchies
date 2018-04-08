@@ -45,6 +45,8 @@ Cours sur *fun-mooc* :
 
 * [Le langage R Markdown](https://www.fun-mooc.fr/c4x/UPSUD/42001S02/asset/RMarkdown.html)
 
+* [Cours listés sur developpez.com](https://r.developpez.com/cours/)
+
 
 ### :scroll: Slides de conférences :scroll:
 
@@ -62,6 +64,8 @@ Cours sur *fun-mooc* :
 ### :cat: Chat et discussions instantanées :cat:
 
 * [grrr](https://r-grrr.slack.com) : communauté Slack francophone ouverte à tous, notamment aux débutants. Pour rejoindre les discussions, suivre le lien d'invitation : https://frama.link/r-grrr
+* [R bloggers en français](https://www.r-bloggers.com/lang/-/french)
+* Debeloppez.com [https://r.developpez.com/]
 
 ### :email: Listes mail :email:
 
