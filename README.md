@@ -25,6 +25,7 @@ L'objectif est de répertorier les packages qui permettent de travailler avec de
 * Le [pôle bioinformatique lyonnais](http://pbil.univ-lyon1.fr/R/) propose depuis longtemps une somme très importante de documents, qui comprend des cours complets de statistiques utilisant R.
 * [Introduction à la programmation en R](https://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf)
 * [C'est l'enfeR](https://bioinfo-fr.net/cest-lenfer) donne des exemples de code simple avec R qui donnent des résultats surprenants.
+* [Documentation francophone référencée sur CRAN](https://cran.opencpu.org/other-docs.html#nenglish)
 
 ### :mortar_board: Cours en ligne :mortar_board: 
 
