@@ -45,9 +45,11 @@ Cours sur *OpenClassRoom* :
 Cours sur *fun-mooc* : 
 
 * [Le langage R Markdown](https://www.fun-mooc.fr/c4x/UPSUD/42001S02/asset/RMarkdown.html)
-
 * [Cours listés sur developpez.com](https://r.developpez.com/cours/)
 
+Autres ressources pédagogiques : 
+
+* [r-insee](https://github.com/martinchevalier/r_insee) code source pour des formations R données à l'Insee par @martinchevalier
 
 ### :scroll: Slides de conférences :scroll:
 
