@@ -16,6 +16,7 @@ L'objectif est de répertorier les packages qui permettent de travailler avec de
 * [prenoms](https://github.com/ThinkR-open/prenoms) par @ThinkR-open : les [données des prénoms](https://www.data.gouv.fr/fr/datasets/fichier-des-prenoms-edition-2016/) dans un package R
 * [proustr](https://github.com/ColinFay/proustr) par @ColinFay :  outils pour le traitement du langage en français, et corpus de textes de Proust.
 * [rgeoapi](https://github.com/ColinFay/rgeoapi) par @ColinFay : un client R pour l'[API Géo](https://api.gouv.fr/api/api-geo.html)
+* [vacancesscolr](https://github.com/Tutuchan/vacancesscolr) par @Tutuchan : les [données des vacances scolaires](https://www.data.gouv.fr/fr/datasets/vacances-scolaires-par-zones/) dans R
 
 ## :books: Ressources pédagogiques :books:
 
