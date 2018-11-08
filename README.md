@@ -29,6 +29,7 @@ L'objectif est de répertorier les packages qui permettent de travailler avec de
 * [Introduction à la programmation en R](https://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf)
 * [C'est l'enfeR](https://bioinfo-fr.net/cest-lenfer) donne des exemples de code simple avec R qui donnent des résultats surprenants.
 * [Documentation francophone référencée sur CRAN](https://cran.opencpu.org/other-docs.html#nenglish)
+* [Manuel d’analyse spatiale : Théorie et mise en oeuvre pratique avec R](https://www.insee.fr/fr/information/3635442), Insee Méthodes n° 131 - octobre 2018 par [@inseefr](https://github.com/inseefr)
 
 ### :mortar_board: Cours en ligne :mortar_board: 
 
