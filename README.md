@@ -3,6 +3,8 @@ Liste de ressources R francophones ou utiles pour les Français.
 
 L'objectif est de répertorier les packages qui permettent de travailler avec des données concernant la France et les ressources pédagogiques ou d'entraide.
 
+N'hésitez pas à contribuer !
+
 ## :package: Packages :package:
 * [banR](https://github.com/joelgombin/banR) par @joelgombin et @pachevalier : géocoder des données avec la base adresse nationale
 * [CARTElette](https://github.com/antuki/CARTElette) par @antuki : création de couches cartographiques à partir du code officiel géographique (COG) et des couches IGN
