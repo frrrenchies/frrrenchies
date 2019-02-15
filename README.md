@@ -101,6 +101,7 @@ Autres ressources pédagogiques :
 * [Paris R-Addict](https://www.meetup.com/fr-FR/rparis/)
 * [Meetup R Nantes](https://www.meetup.com/fr-FR/Meetup-R-Nantes/)
 * [Meetup RLadies Paris](https://www.meetup.com/fr-FR/rladies-paris/)
+* [R user group Toulouse](https://r-toulouse.netlify.com/)
 
 ## :date: Séminaires et conférences :date: 
 
