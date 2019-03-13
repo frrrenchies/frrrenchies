@@ -56,7 +56,7 @@ Cours sur *fun-mooc* :
 Autres ressources pédagogiques : 
 
 * [r-insee](https://github.com/martinchevalier/r_insee) code source pour des formations R données à l'Insee par @martinchevalier
-* [parcours r](https://github.com/MTES-MCT/parcours-r) formation R au ministère de la transition écologique et solidaire (MTES)
+* [parcours r](https://mtes-mct.github.io/parcours-r/) formation R au ministère de la transition écologique et solidaire (MTES)
 
 ### :scroll: Slides de conférences :scroll:
 
