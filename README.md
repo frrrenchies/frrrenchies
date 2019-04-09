@@ -32,6 +32,7 @@ N'hésitez pas à contribuer !
 * [C'est l'enfeR](https://bioinfo-fr.net/cest-lenfer) donne des exemples de code simple avec R qui donnent des résultats surprenants.
 * [Documentation francophone référencée sur CRAN](https://cran.opencpu.org/other-docs.html#nenglish)
 * [Manuel d’analyse spatiale : Théorie et mise en oeuvre pratique avec R](https://www.insee.fr/fr/information/3635442), Insee Méthodes n° 131 - octobre 2018 par [@inseefr](https://github.com/inseefr)
+* [Se former au logiciel R : initiation et perfectionnement](https://myrbookfr.netlify.com/), François Rebaudo, 2019-02-13.
 
 ### :mortar_board: Cours en ligne :mortar_board: 
 
