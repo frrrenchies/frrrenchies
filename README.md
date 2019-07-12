@@ -116,7 +116,7 @@ Autres ressources pédagogiques :
   - [Rencontres R 2015 Grenoble](http://r2015-grenoble.sciencesconf.org/)
   - [Rencontres R 2016 Toulouse](https://r2016-toulouse.sciencesconf.org/)
   - [Rencontres R 2017 Anglet](http://angletr2017.com/)
-  - [Rencontres R 2018 Rennes][user2009]
+  - [Rencontres R 2018 Rennes](https://r2018-rennes.sciencesconf.org/)
   - [useR! 2019 Toulouse](http://www.user2019.fr/)
   - [Rencontres R 2020 AgroParisTech](https://paris2020.rencontresr.fr/) (à venir)
 
