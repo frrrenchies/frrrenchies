@@ -61,6 +61,7 @@ Autres ressources pédagogiques :
 
 ### :scroll: Slides de conférences :scroll:
 
+* [Les SIG et la cartographie avec R - Rencontres R (FR)](https://github.com/statnmap/prez/blob/master/2018-07-06_RR2018_Statnmap.pdf) - @statnmap, Rencontres R 2018, Rennes
 * [Données géographiques et cartographie sous R](https://antuki.github.io/slides/180306_RLadies_COGugaison_carto.html) - @antuki, Meet-Up RLadies Paris, mars 2018  
 * [Le text-mining expliqué à ma grand mère](https://github.com/ColinFay/conf/blob/master/2017-11-breizh-data-club/fay_colin_tm_explique_grand_mere.pdf) - @ColinFay, Meetup du Breizh Data Club  
 * [Les API, un enfeR ?](https://github.com/ColinFay/conf/blob/master/2017-06-Anglet/api_enfer_colin_fay_thinkr.pdf) - @ColinFay, Rencontres R 2017  
@@ -89,12 +90,14 @@ Autres ressources pédagogiques :
 * [Abcd'R](https://abcdr.guyader.pro/) : Site collaboratif de partage de scrit en français  
 
 ### :newspaper: Blogs :newspaper:  
-* [R-atique](http://perso.ens-lyon.fr/lise.vaudor), un certain nombre de ressources, d'astuces et de conseils à ceux souhaitant utiliser R dans leurs travaux de recherche  
+* [R-atique](http://perso.ens-lyon.fr/lise.vaudor), le blog de Lise Vaudor : un certain nombre de ressources, d'astuces et de conseils à ceux souhaitant utiliser R dans leurs travaux de recherche  
 * [Element-R](https://elementr.hypotheses.org/), R pour les sciences humaines et sociales  
 * [Rgeomatique](https://rgeomatic.hypotheses.org/), R pour les travaux de géomatique  
 * [Dacta](http://www.dacta.fr/blog/), qui a pris le relais du blog de [superstaticienne](https://superstatisticienne.fr/)- Statistiques, R et paillettes…  
- * [ThinkR](https://thinkr.fr/le-blog/), le blog d'une équipe qui pense en R, on y retrouve plusieurs cheatsheets en français dans le texte, parmis d'autres choses tout aussi précieuses  
- 
+* [ThinkR](https://thinkr.fr/le-blog/), le blog d'une équipe qui pense en R. On y retrouve des tutoriels et plusieurs cheatsheets en français dans le texte, parmis d'autres choses tout aussi précieuses  
+* [StatnMap](https://statnmap.com/post/), le blog de Sébastien Rochette : des articles orientés modèles et cartographie, mais pas que...
+* [Rtask](https://rtask.thinkr.fr), le blog technique de ThinkR. Astuces et autres joies de R
+
 
 
 ## :bowtie: Meetup :bowtie: 
