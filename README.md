@@ -74,7 +74,7 @@ Autres ressources pédagogiques :
 
 ### :cat: Chat et discussions instantanées :cat:
 
-* [grrr](https://r-grrr.slack.com) : communauté Slack francophone ouverte à tous, notamment aux débutants. Pour rejoindre les discussions, suivre le lien d'invitation : https://frama.link/r-grrr
+* [grrr](https://r-grrr.slack.com) : communauté Slack francophone ouverte à tous, notamment aux débutants. Pour rejoindre les discussions, suivre le lien d'invitation : [https://kutt.it/rgrrr](https://kutt.it/rgrrr)
 * [R bloggers en français](https://www.r-bloggers.com/lang/-/french)
 * Debeloppez.com [https://r.developpez.com/]
 
