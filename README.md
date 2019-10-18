@@ -109,7 +109,17 @@ Autres ressources pédagogiques :
 
 * [Conférences semin-r](http://rug.mnhn.fr/semin-r/) : conférences du groupe des utilisateurs de R animé par le Muséum national d’Histoire naturelle.
 * [Séminaire RUSS](https://russ.site.ined.fr/fr/) : séminaires R à l'Usage des Sciences Sociales (EHESS, INED et CNRS). 
-* [Rencontres R](https://r2018-rennes.sciencesconf.org/) : Les 7eme Rencontres R se tiendront à Rennes du 4 au 6 juillet 2018.
+* Rencontres R et conférences useR! organisées en France :
+  - [useR! 2009 Rennes](https://www.r-project.org/conferences/useR-2009/)
+  - [Rencontres R 2012 Bordeaux](http://r2012.bordeaux.inria.fr/)
+  - [Rencontres R 2013 Lyon](http://r2013-lyon.sciencesconf.org/)
+  - [Rencontres R 2014 Montpellier](http://r2014-mtp.sciencesconf.org/)
+  - [Rencontres R 2015 Grenoble](http://r2015-grenoble.sciencesconf.org/)
+  - [Rencontres R 2016 Toulouse](https://r2016-toulouse.sciencesconf.org/)
+  - [Rencontres R 2017 Anglet](http://angletr2017.com/)
+  - [Rencontres R 2018 Rennes](https://r2018-rennes.sciencesconf.org/)
+  - [useR! 2019 Toulouse](http://www.user2019.fr/)
+  - [Rencontres R 2020 AgroParisTech](https://paris2020.rencontresr.fr/) (à venir)
 
 ## :hash: Bot Twitter :hash: 
 
