@@ -77,7 +77,7 @@ Autres ressources pédagogiques :
 
 * [grrr](https://r-grrr.slack.com) : communauté Slack francophone ouverte à tous, notamment aux débutants. Pour rejoindre les discussions, suivre le lien d'invitation : https://frama.link/r-grrr
 * [R bloggers en français](https://www.r-bloggers.com/lang/-/french)
-* Debeloppez.com [https://r.developpez.com/]
+* Developpez.com [https://r.developpez.com/]
 
 ### :email: Listes mail :email:
 
@@ -87,14 +87,15 @@ Autres ressources pédagogiques :
 ### :busts_in_silhouette: Communautaires :busts_in_silhouette:
 
 * [Forum du Cirad](http://forums.cirad.fr/logiciel-R/) : forum du groupe des utilisateurs de R du Cirad, ouvert à tous.
-* [Abcd'R](https://abcdr.guyader.pro/) : Site collaboratif de partage de scrit en français  
+* [Abcd'R](https://abcdr.guyader.pro/) : Site collaboratif de partage de script en français  
 
 ### :newspaper: Blogs :newspaper:  
+
 * [R-atique](http://perso.ens-lyon.fr/lise.vaudor), un certain nombre de ressources, d'astuces et de conseils à ceux souhaitant utiliser R dans leurs travaux de recherche  
 * [Element-R](https://elementr.hypotheses.org/), R pour les sciences humaines et sociales  
 * [Rgeomatique](https://rgeomatic.hypotheses.org/), R pour les travaux de géomatique  
 * [Dacta](http://www.dacta.fr/blog/), qui a pris le relais du blog de [superstaticienne](https://superstatisticienne.fr/)- Statistiques, R et paillettes…  
- * [ThinkR](https://thinkr.fr/le-blog/), le blog d'une équipe qui pense en R, on y retrouve plusieurs cheatsheets en français dans le texte, parmis d'autres choses tout aussi précieuses  
+ * [ThinkR](https://thinkr.fr/le-blog/), le blog d'une équipe qui pense en R, on y retrouve plusieurs cheatsheets en français dans le texte, parmi d'autres choses tout aussi précieuses  
  
 
 
@@ -102,8 +103,9 @@ Autres ressources pédagogiques :
 
 * [Paris R-Addict](https://www.meetup.com/fr-FR/rparis/)
 * [Meetup R Nantes](https://www.meetup.com/fr-FR/Meetup-R-Nantes/)
-* [Meetup RLadies Paris](https://www.meetup.com/fr-FR/rladies-paris/)
+* [Meetup R-Ladies Paris](https://www.meetup.com/fr-FR/rladies-paris/)
 * [R user group Toulouse](https://r-toulouse.netlify.com/)
+* [Meetup R-Ladies Montpellier](https://www.meetup.com/fr-FR/rladies-montpellier/)
 
 ## :date: Séminaires et conférences :date: 
 
