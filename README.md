@@ -12,6 +12,7 @@ N'hésitez pas à contribuer !
 * [fodr](https://github.com/Tutuchan/fodr) par @Tutuchan : un client pour accéder à l'API d'opendatasoft et récupérer les données de différents portails open data français 
 * [legislatives2017](https://github.com/ThinkR-open/legislatives2017) par @ThinkR-open : les données des élections législatives dans un package R
 * [lexiquer](https://github.com/ColinFay/lexiquer) : Un wrapper autour de la base de données lexicale Lexique 3.81.
+* [opendatarte](https://cderv.github.io/opendatarte/) : Un wrapper pour accéder aux données du [portail RTE](https://data.rte-france.com/) développé par @cderv
 * [openentreprise](https://github.com/pachevalier/openentreprise) par @pachevalier : accéder aux données des entreprises avec [openentreprise.fr](http://openentreprise.fr) 
 * [nomensland](https://github.com/GuillaumePressiat/nomensland) par @GuillaumePressiat : nomenclatures et classifications pour le [PMSI](https://fr.wikipedia.org/wiki/Programme_de_m%C3%A9dicalisation_des_syst%C3%A8mes_d%27information)
 * [pmeasyr](https://github.com/IM-APHP/pmeasyr) par  @GuillaumePressiat : lire les données du PMSI dans R
