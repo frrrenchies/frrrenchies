@@ -6,6 +6,8 @@ L'objectif est de répertorier les packages qui permettent de travailler avec de
 N'hésitez pas à contribuer !
 
 ## :package: Packages :package:
+
+* [baacker](https://github.com/Bakaniko/baacker) par @Bakaniko : un package pour accéder à la [base de données des accidents corporels de la circulation](https://www.data.gouv.fr/datasets/53698f4ca3a729239d2036df)
 * [banR](https://github.com/joelgombin/banR) par @joelgombin et @pachevalier : géocoder des données avec la base adresse nationale
 * [BARIS](https://github.com/feddelegrand7/BARIS) par @feddelegrand7 : accéder directement aux données de data.gouv.fr depuis R
 * [CARTElette](https://github.com/antuki/CARTElette) par @antuki : création de couches cartographiques à partir du code officiel géographique (COG) et des couches IGN
