@@ -125,7 +125,7 @@ Autres ressources pédagogiques :
   - [Rencontres R 2017 Anglet](http://angletr2017.com/)
   - [Rencontres R 2018 Rennes](https://r2018-rennes.sciencesconf.org/)
   - [useR! 2019 Toulouse](http://www.user2019.fr/)
-  - [Rencontres R 2020 AgroParisTech](https://paris2020.rencontresr.fr/) (à venir)
+  - [Rencontres R 2020 AgroParisTech](https://paris2020.rencontresr.fr/) (reportées à 2021)
 
 ## :hash: Bot Twitter :hash: 
 
