@@ -12,11 +12,11 @@ N'hésitez pas à contribuer !
 * [BARIS](https://github.com/feddelegrand7/BARIS) par @feddelegrand7 : accéder directement aux données de data.gouv.fr depuis R
 * [CARTElette](https://github.com/antuki/CARTElette) par @antuki : création de couches cartographiques à partir du code officiel géographique (COG) et des couches IGN
 * [COGugaison](https://github.com/antuki/COGugaison) par @antuki : package utile à la gestion des codes officiels géographiques (COG) dans les tables de données pour utiliser des données géographiques en historique
+* [entreprises](https://github.com/pachevalier/entreprises) par @pachevalier : accéder aux données des entreprises 
 * [fodr](https://github.com/Tutuchan/fodr) par @Tutuchan : un client pour accéder à l'API d'opendatasoft et récupérer les données de différents portails open data français 
 * [legislatives2017](https://github.com/ThinkR-open/legislatives2017) par @ThinkR-open : les données des élections législatives dans un package R
 * [lexiquer](https://github.com/ColinFay/lexiquer) : Un wrapper autour de la base de données lexicale Lexique 3.81.
 * [opendatarte](https://cderv.github.io/opendatarte/) : Un wrapper pour accéder aux données du [portail RTE](https://data.rte-france.com/) développé par @cderv
-* [openentreprise](https://github.com/pachevalier/openentreprise) par @pachevalier : accéder aux données des entreprises avec [openentreprise.fr](http://openentreprise.fr) 
 * [nomensland](https://github.com/GuillaumePressiat/nomensland) par @GuillaumePressiat : nomenclatures et classifications pour le [PMSI](https://fr.wikipedia.org/wiki/Programme_de_m%C3%A9dicalisation_des_syst%C3%A8mes_d%27information)
 * [pmeasyr](https://github.com/IM-APHP/pmeasyr) par  @GuillaumePressiat : lire les données du PMSI dans R
 * [prenoms](https://github.com/ThinkR-open/prenoms) par @ThinkR-open : les [données des prénoms](https://www.data.gouv.fr/fr/datasets/fichier-des-prenoms-edition-2016/) dans un package R
@@ -66,6 +66,7 @@ Autres ressources pédagogiques :
 
 ### :scroll: Slides de conférences :scroll:
 
+* [Les SIG et la cartographie avec R - Rencontres R (FR)](https://github.com/statnmap/prez/blob/master/2018-07-06_RR2018_Statnmap.pdf) - @statnmap, Rencontres R 2018, Rennes
 * [Données géographiques et cartographie sous R](https://antuki.github.io/slides/180306_RLadies_COGugaison_carto.html) - @antuki, Meet-Up RLadies Paris, mars 2018  
 * [Le text-mining expliqué à ma grand mère](https://github.com/ColinFay/conf/blob/master/2017-11-breizh-data-club/fay_colin_tm_explique_grand_mere.pdf) - @ColinFay, Meetup du Breizh Data Club  
 * [Les API, un enfeR ?](https://github.com/ColinFay/conf/blob/master/2017-06-Anglet/api_enfer_colin_fay_thinkr.pdf) - @ColinFay, Rencontres R 2017  
@@ -95,13 +96,13 @@ Autres ressources pédagogiques :
 
 ### :newspaper: Blogs :newspaper:  
 
-* [R-atique](http://perso.ens-lyon.fr/lise.vaudor), un certain nombre de ressources, d'astuces et de conseils à ceux souhaitant utiliser R dans leurs travaux de recherche  
+* [R-atique](http://perso.ens-lyon.fr/lise.vaudor), le blog de Lise Vaudor : un certain nombre de ressources, d'astuces et de conseils à ceux souhaitant utiliser R dans leurs travaux de recherche  
 * [Element-R](https://elementr.hypotheses.org/), R pour les sciences humaines et sociales  
 * [Rgeomatique](https://rgeomatic.hypotheses.org/), R pour les travaux de géomatique  
 * [Dacta](http://www.dacta.fr/blog/), qui a pris le relais du blog de [superstaticienne](https://superstatisticienne.fr/)- Statistiques, R et paillettes…  
- * [ThinkR](https://thinkr.fr/le-blog/), le blog d'une équipe qui pense en R, on y retrouve plusieurs cheatsheets en français dans le texte, parmi d'autres choses tout aussi précieuses  
- 
-
+* [ThinkR](https://thinkr.fr/le-blog/), le blog d'une équipe qui pense en R. On y retrouve des tutoriels et plusieurs cheatsheets en français dans le texte, parmis d'autres choses tout aussi précieuses  
+* [StatnMap](https://statnmap.com/post/), le blog de Sébastien Rochette : des articles orientés modèles et cartographie, mais pas que...
+* [Rtask](https://rtask.thinkr.fr), le blog technique de ThinkR. Astuces et autres joies de R
 
 ## :bowtie: Meetup :bowtie: 
 
