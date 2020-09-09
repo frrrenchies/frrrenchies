@@ -6,13 +6,17 @@ L'objectif est de répertorier les packages qui permettent de travailler avec de
 N'hésitez pas à contribuer !
 
 ## :package: Packages :package:
+
+* [baacker](https://github.com/Bakaniko/baacker) par @Bakaniko : un package pour accéder à la [base de données des accidents corporels de la circulation](https://www.data.gouv.fr/datasets/53698f4ca3a729239d2036df)
 * [banR](https://github.com/joelgombin/banR) par @joelgombin et @pachevalier : géocoder des données avec la base adresse nationale
+* [BARIS](https://github.com/feddelegrand7/BARIS) par @feddelegrand7 : accéder directement aux données de data.gouv.fr depuis R
 * [CARTElette](https://github.com/antuki/CARTElette) par @antuki : création de couches cartographiques à partir du code officiel géographique (COG) et des couches IGN
 * [COGugaison](https://github.com/antuki/COGugaison) par @antuki : package utile à la gestion des codes officiels géographiques (COG) dans les tables de données pour utiliser des données géographiques en historique
+* [entreprises](https://github.com/pachevalier/entreprises) par @pachevalier : accéder aux données des entreprises 
 * [fodr](https://github.com/Tutuchan/fodr) par @Tutuchan : un client pour accéder à l'API d'opendatasoft et récupérer les données de différents portails open data français 
 * [legislatives2017](https://github.com/ThinkR-open/legislatives2017) par @ThinkR-open : les données des élections législatives dans un package R
 * [lexiquer](https://github.com/ColinFay/lexiquer) : Un wrapper autour de la base de données lexicale Lexique 3.81.
-* [openentreprise](https://github.com/pachevalier/openentreprise) par @pachevalier : accéder aux données des entreprises avec [openentreprise.fr](http://openentreprise.fr) 
+* [opendatarte](https://cderv.github.io/opendatarte/) : Un wrapper pour accéder aux données du [portail RTE](https://data.rte-france.com/) développé par @cderv
 * [nomensland](https://github.com/GuillaumePressiat/nomensland) par @GuillaumePressiat : nomenclatures et classifications pour le [PMSI](https://fr.wikipedia.org/wiki/Programme_de_m%C3%A9dicalisation_des_syst%C3%A8mes_d%27information)
 * [pmeasyr](https://github.com/IM-APHP/pmeasyr) par  @GuillaumePressiat : lire les données du PMSI dans R
 * [prenoms](https://github.com/ThinkR-open/prenoms) par @ThinkR-open : les [données des prénoms](https://www.data.gouv.fr/fr/datasets/fichier-des-prenoms-edition-2016/) dans un package R
@@ -33,6 +37,7 @@ N'hésitez pas à contribuer !
 * [Documentation francophone référencée sur CRAN](https://cran.opencpu.org/other-docs.html#nenglish)
 * [Manuel d’analyse spatiale : Théorie et mise en oeuvre pratique avec R](https://www.insee.fr/fr/information/3635442), Insee Méthodes n° 131 - octobre 2018 par [@inseefr](https://github.com/inseefr)
 * [Se former au logiciel R : initiation et perfectionnement](https://myrbookfr.netlify.com/), François Rebaudo, 2019-02-13.
+* [Le grimoire statistique : Contes et stats R](http://perso.ens-lyon.fr/lise.vaudor/grimoireStat/_book/intro.html) par @lvaudor
 
 ### :mortar_board: Cours en ligne :mortar_board: 
 
@@ -75,9 +80,9 @@ Autres ressources pédagogiques :
 
 ### :cat: Chat et discussions instantanées :cat:
 
-* [grrr](https://r-grrr.slack.com) : communauté Slack francophone ouverte à tous, notamment aux débutants. Pour rejoindre les discussions, suivre le lien d'invitation : https://frama.link/r-grrr
+* [grrr](https://r-grrr.slack.com) : communauté Slack francophone ouverte à tous, notamment aux débutants. Pour rejoindre les discussions, suivre le lien d'invitation : [https://lstu.fr/rgrrr](https://lstu.fr/rgrrr)
 * [R bloggers en français](https://www.r-bloggers.com/lang/-/french)
-* Debeloppez.com [https://r.developpez.com/]
+* Developpez.com [https://r.developpez.com/]
 
 ### :email: Listes mail :email:
 
@@ -87,9 +92,10 @@ Autres ressources pédagogiques :
 ### :busts_in_silhouette: Communautaires :busts_in_silhouette:
 
 * [Forum du Cirad](http://forums.cirad.fr/logiciel-R/) : forum du groupe des utilisateurs de R du Cirad, ouvert à tous.
-* [Abcd'R](https://abcdr.guyader.pro/) : Site collaboratif de partage de scrit en français  
+* [Abcd'R](https://abcdr.guyader.pro/) : Site collaboratif de partage de script en français  
 
 ### :newspaper: Blogs :newspaper:  
+
 * [R-atique](http://perso.ens-lyon.fr/lise.vaudor), le blog de Lise Vaudor : un certain nombre de ressources, d'astuces et de conseils à ceux souhaitant utiliser R dans leurs travaux de recherche  
 * [Element-R](https://elementr.hypotheses.org/), R pour les sciences humaines et sociales  
 * [Rgeomatique](https://rgeomatic.hypotheses.org/), R pour les travaux de géomatique  
@@ -98,20 +104,29 @@ Autres ressources pédagogiques :
 * [StatnMap](https://statnmap.com/post/), le blog de Sébastien Rochette : des articles orientés modèles et cartographie, mais pas que...
 * [Rtask](https://rtask.thinkr.fr), le blog technique de ThinkR. Astuces et autres joies de R
 
-
-
 ## :bowtie: Meetup :bowtie: 
 
 * [Paris R-Addict](https://www.meetup.com/fr-FR/rparis/)
 * [Meetup R Nantes](https://www.meetup.com/fr-FR/Meetup-R-Nantes/)
-* [Meetup RLadies Paris](https://www.meetup.com/fr-FR/rladies-paris/)
+* [Meetup R-Ladies Paris](https://www.meetup.com/fr-FR/rladies-paris/)
 * [R user group Toulouse](https://r-toulouse.netlify.com/)
+* [Meetup R-Ladies Montpellier](https://www.meetup.com/fr-FR/rladies-montpellier/)
 
 ## :date: Séminaires et conférences :date: 
 
 * [Conférences semin-r](http://rug.mnhn.fr/semin-r/) : conférences du groupe des utilisateurs de R animé par le Muséum national d’Histoire naturelle.
 * [Séminaire RUSS](https://russ.site.ined.fr/fr/) : séminaires R à l'Usage des Sciences Sociales (EHESS, INED et CNRS). 
-* [Rencontres R](https://r2018-rennes.sciencesconf.org/) : Les 7eme Rencontres R se tiendront à Rennes du 4 au 6 juillet 2018.
+* Rencontres R et conférences useR! organisées en France :
+  - [useR! 2009 Rennes](https://www.r-project.org/conferences/useR-2009/)
+  - [Rencontres R 2012 Bordeaux](http://r2012.bordeaux.inria.fr/)
+  - [Rencontres R 2013 Lyon](http://r2013-lyon.sciencesconf.org/)
+  - [Rencontres R 2014 Montpellier](http://r2014-mtp.sciencesconf.org/)
+  - [Rencontres R 2015 Grenoble](http://r2015-grenoble.sciencesconf.org/)
+  - [Rencontres R 2016 Toulouse](https://r2016-toulouse.sciencesconf.org/)
+  - [Rencontres R 2017 Anglet](http://angletr2017.com/)
+  - [Rencontres R 2018 Rennes](https://r2018-rennes.sciencesconf.org/)
+  - [useR! 2019 Toulouse](http://www.user2019.fr/)
+  - [Rencontres R 2020 AgroParisTech](https://paris2020.rencontresr.fr/) (reportées à 2021)
 
 ## :hash: Bot Twitter :hash: 
 
