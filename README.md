@@ -130,4 +130,4 @@ Autres ressources pédagogiques :
 
 ## :hash: Bot Twitter :hash: 
 
-* [@talkR_FR](https://twitter.com/talkr_fr) : Un bot twitter retweetant tous les tweets contenant le hashtag #RStatsFR 
+* [@talk_rstatsfr](https://twitter.com/talk_rstatsfr) : Un bot twitter retweetant tous les tweets contenant le hashtag #RStatsFR 
