@@ -12,7 +12,7 @@ N'hésitez pas à contribuer !
 * [BARIS](https://github.com/feddelegrand7/BARIS) par @feddelegrand7 : accéder directement aux données de data.gouv.fr depuis R
 * [CARTElette](https://github.com/antuki/CARTElette) par @antuki : création de couches cartographiques à partir du code officiel géographique (COG) et des couches IGN
 * [COGugaison](https://github.com/antuki/COGugaison) par @antuki : package utile à la gestion des codes officiels géographiques (COG) dans les tables de données pour utiliser des données géographiques en historique
-* [DoReMIFaSol](https://github.com/pierre-lamarche/DoReMIFaSol) par [@pierre-lamarche](https://github.com/pierre-lamarche) : récupérer et utiliser les données de l'Insee avec R
+* [DoReMIFaSol](https://inseefrlab.github.io/DoReMIFaSol) par [@pierre-lamarche](https://github.com/pierre-lamarche) : récupérer et utiliser les données de l'Insee avec R
 * [entreprises](https://github.com/pachevalier/entreprises) par @pachevalier : accéder aux données des entreprises 
 * [fodr](https://github.com/Tutuchan/fodr) par @Tutuchan : un client pour accéder à l'API d'opendatasoft et récupérer les données de différents portails open data français 
 * [insee](https://hadrilec.github.io/insee/) par @[hadrilec](https://github.com/hadrilec) : accéder à la base de données macroéconomiques de l'Insee
