@@ -15,6 +15,7 @@ N'hésitez pas à contribuer !
 * [DoReMIFaSol](https://inseefrlab.github.io/DoReMIFaSol) par [@pierre-lamarche](https://github.com/pierre-lamarche) : récupérer et utiliser les données de l'Insee avec R
 * [entreprises](https://github.com/pachevalier/entreprises) par @pachevalier : accéder aux données des entreprises 
 * [fodr](https://github.com/Tutuchan/fodr) par @Tutuchan : un client pour accéder à l'API d'opendatasoft et récupérer les données de différents portails open data français 
+* [gouvdown](https://github.com/spyrales/gouvdown) par @RLesur, @tvroylandt, @MaelTheuliere, implémentation de la marque Etat pour ggplot et Rmarkdown.
 * [insee](https://hadrilec.github.io/insee/) par @[hadrilec](https://github.com/hadrilec) : accéder à la base de données macroéconomiques de l'Insee
 * [legislatives2017](https://github.com/ThinkR-open/legislatives2017) par @ThinkR-open : les données des élections législatives dans un package R
 * [lexiquer](https://github.com/ColinFay/lexiquer) : Un wrapper autour de la base de données lexicale Lexique 3.81.
@@ -22,6 +23,7 @@ N'hésitez pas à contribuer !
 * [nomensland](https://github.com/GuillaumePressiat/nomensland) par @GuillaumePressiat : nomenclatures et classifications pour le [PMSI](https://fr.wikipedia.org/wiki/Programme_de_m%C3%A9dicalisation_des_syst%C3%A8mes_d%27information)
 * [pmeasyr](https://github.com/IM-APHP/pmeasyr) par  @GuillaumePressiat : lire les données du PMSI dans R
 * [prenoms](https://github.com/ThinkR-open/prenoms) par @ThinkR-open : les [données des prénoms](https://www.data.gouv.fr/fr/datasets/fichier-des-prenoms-edition-2016/) dans un package R
+* [propre.rpls](https://gitlab.com/rdes_dreal/propre.rpls) : un package R pour automatiser la production des publications sur le parc social des Dreals
 * [proustr](https://github.com/ColinFay/proustr) par @ColinFay :  outils pour le traitement du langage en français, et corpus de textes de Proust.
 * [rgeoapi](https://github.com/ColinFay/rgeoapi) par @ColinFay : un client R pour l'[API Géo](https://api.gouv.fr/api/api-geo.html)
 * [vacancesscolr](https://github.com/Tutuchan/vacancesscolr) par @Tutuchan : les [données des vacances scolaires](https://www.data.gouv.fr/fr/datasets/vacances-scolaires-par-zones/) dans R
@@ -41,6 +43,7 @@ N'hésitez pas à contribuer !
 * [Se former au logiciel R : initiation et perfectionnement](https://myrbookfr.netlify.com/), François Rebaudo, 2019-02-13.
 * [Le grimoire statistique : Contes et stats R](http://perso.ens-lyon.fr/lise.vaudor/grimoireStat/_book/intro.html) par @lvaudor
 * [UtilitR](https://linogaliana.gitlab.io/documentationR/) manuel de R pour les agents de l'Insee
+* [Les données spatiales avec R](https://github.com/MaelTheuliere/rspatial) par @MaelTheuliere, support de cours sur l'analyse spatiale avec R et sf
 
 ### :mortar_board: Cours en ligne :mortar_board: 
 
