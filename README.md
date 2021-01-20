@@ -42,7 +42,7 @@ N'hésitez pas à contribuer !
 * [Manuel d’analyse spatiale : Théorie et mise en oeuvre pratique avec R](https://www.insee.fr/fr/information/3635442), Insee Méthodes n° 131 - octobre 2018 par [@inseefr](https://github.com/inseefr)
 * [Se former au logiciel R : initiation et perfectionnement](https://myrbookfr.netlify.com/), François Rebaudo, 2019-02-13.
 * [Le grimoire statistique : Contes et stats R](http://perso.ens-lyon.fr/lise.vaudor/grimoireStat/_book/intro.html) par @lvaudor
-* [UtilitR](https://linogaliana.gitlab.io/documentationR/) manuel de R pour les agents de l'Insee
+* [UtilitR](https://www.utilitr.org/) manuel de R par les agents de l'Insee
 * [Les données spatiales avec R](https://github.com/MaelTheuliere/rspatial) par @MaelTheuliere, support de cours sur l'analyse spatiale avec R et sf
 
 ### :mortar_board: Cours en ligne :mortar_board: 
