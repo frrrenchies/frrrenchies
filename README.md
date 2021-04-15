@@ -9,7 +9,7 @@ N'hésitez pas à contribuer !
 
 * [baacker](https://github.com/Bakaniko/baacker) par @Bakaniko : un package pour accéder à la [base de données des accidents corporels de la circulation](https://www.data.gouv.fr/datasets/53698f4ca3a729239d2036df)
 * [banR](https://github.com/joelgombin/banR) par @joelgombin et @pachevalier : géocoder des données avec la base adresse nationale
-* [BARIS](https://github.com/feddelegrand7/BARIS) par @feddelegrand7 : accéder directement aux données de data.gouv.fr depuis R
+* [BARIS](https://github.com/feddelegrand7/BARIS) par @feddelegrand7 : accéder directement aux données de data‧gouv.fr depuis R
 * [CARTElette](https://github.com/antuki/CARTElette) par @antuki : création de couches cartographiques à partir du code officiel géographique (COG) et des couches IGN
 * [COGugaison](https://github.com/antuki/COGugaison) par @antuki : package utile à la gestion des codes officiels géographiques (COG) dans les tables de données pour utiliser des données géographiques en historique
 * [DoReMIFaSol](https://inseefrlab.github.io/DoReMIFaSol) par [@pierre-lamarche](https://github.com/pierre-lamarche) : récupérer et utiliser les données de l'Insee avec R
@@ -23,7 +23,7 @@ N'hésitez pas à contribuer !
 * [nomensland](https://github.com/GuillaumePressiat/nomensland) par @GuillaumePressiat : nomenclatures et classifications pour le [PMSI](https://fr.wikipedia.org/wiki/Programme_de_m%C3%A9dicalisation_des_syst%C3%A8mes_d%27information)
 * [pmeasyr](https://github.com/IM-APHP/pmeasyr) par  @GuillaumePressiat : lire les données du PMSI dans R
 * [prenoms](https://github.com/ThinkR-open/prenoms) par @ThinkR-open : les [données des prénoms](https://www.data.gouv.fr/fr/datasets/fichier-des-prenoms-edition-2016/) dans un package R
-* [propre.rpls](https://gitlab.com/rdes_dreal/propre.rpls) : un package R pour automatiser la production des publications sur le parc social des Dreals
+* [propre‧rpls](https://gitlab.com/rdes_dreal/propre.rpls) : un package R pour automatiser la production des publications sur le parc social des Dreals
 * [proustr](https://github.com/ColinFay/proustr) par @ColinFay :  outils pour le traitement du langage en français, et corpus de textes de Proust.
 * [rgeoapi](https://github.com/ColinFay/rgeoapi) par @ColinFay : un client R pour l'[API Géo](https://api.gouv.fr/api/api-geo.html)
 * [vacancesscolr](https://github.com/Tutuchan/vacancesscolr) par @Tutuchan : les [données des vacances scolaires](https://www.data.gouv.fr/fr/datasets/vacances-scolaires-par-zones/) dans R
@@ -86,7 +86,7 @@ Autres ressources pédagogiques :
 
 ### :cat: Chat et discussions instantanées :cat:
 
-* [grrr](https://r-grrr.slack.com) : communauté Slack francophone ouverte à tous, notamment aux débutants. Pour rejoindre les discussions, suivre le lien d'invitation : [https://lstu.fr/rgrrr](https://lstu.fr/rgrrr)
+* [grrr](https://r-grrr.slack.com) : communauté Slack francophone ouverte à tous, notamment aux débutants. Pour rejoindre les discussions, [suivre le lien d'invitation](https://join.slack.com/t/r-grrr/shared_invite/zt-46utbgb9-uvo_bg5cbuxOV~H10YUX8w)
 * [R bloggers en français](https://www.r-bloggers.com/lang/-/french)
 * Developpez.com [https://r.developpez.com/]
 
