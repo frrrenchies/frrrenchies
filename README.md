@@ -99,6 +99,7 @@ Autres ressources pédagogiques :
 
 * [Forum du Cirad](http://forums.cirad.fr/logiciel-R/) : forum du groupe des utilisateurs de R du Cirad, ouvert à tous.
 * [Abcd'R](https://abcdr.guyader.pro/) : Site collaboratif de partage de script en français  
+* [Rzine](http://rzine.fr/) : Site collaboratif de référencement et de partage de ressources sur la pratique de R en sciences humaines et sociales
 
 ### :newspaper: Blogs :newspaper:  
 
