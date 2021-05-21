@@ -17,6 +17,7 @@ N'hésitez pas à contribuer !
 * [fodr](https://github.com/Tutuchan/fodr) par @Tutuchan : un client pour accéder à l'API d'opendatasoft et récupérer les données de différents portails open data français 
 * [gouvdown](https://github.com/spyrales/gouvdown) par @RLesur, @tvroylandt, @MaelTheuliere, implémentation de la marque Etat pour ggplot et Rmarkdown.
 * [insee](https://inseefr.github.io/R-Insee-Data/) par @[hadrilec](https://github.com/hadrilec) : accéder à la base de données macroéconomiques de l'Insee
+* [inseeLocalData](https://github.com/InseeFrLab/inseeLocalData) : client R pour l'[API Données Locales](https://api.insee.fr/catalogue/site/themes/wso2/subthemes/insee/pages/item-info.jag?name=DonneesLocales&version=V0.1&provider=insee) de l'Insee.
 * [legislatives2017](https://github.com/ThinkR-open/legislatives2017) par @ThinkR-open : les données des élections législatives dans un package R
 * [lexiquer](https://github.com/ColinFay/lexiquer) : Un wrapper autour de la base de données lexicale Lexique 3.81.
 * [opendatarte](https://cderv.github.io/opendatarte/) : Un wrapper pour accéder aux données du [portail RTE](https://data.rte-france.com/) développé par @cderv
