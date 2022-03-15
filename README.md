@@ -47,6 +47,7 @@ N'hésitez pas à contribuer !
 * [Le grimoire statistique : Contes et stats R](http://perso.ens-lyon.fr/lise.vaudor/grimoireStat/_book/intro.html) par @lvaudor
 * [UtilitR](https://www.utilitr.org/) manuel de R par les agents de l'Insee
 * [Les données spatiales avec R](https://github.com/MaelTheuliere/rspatial) par @MaelTheuliere, support de cours sur l'analyse spatiale avec R et sf
+* [Contes et stats R](http://perso.ens-lyon.fr/lise.vaudor/grimoireStat/_book/intro.html#pourquoi-ce-livre) par Lise Vaudor
 
 ### :mortar_board: Cours en ligne :mortar_board: 
 
