@@ -18,6 +18,7 @@ N'hésitez pas à contribuer !
 * [entreprises](https://github.com/pachevalier/entreprises) par @pachevalier : accéder aux données des entreprises 
 * [fodr](https://github.com/Tutuchan/fodr) par @Tutuchan : un client pour accéder à l'API d'opendatasoft et récupérer les données de différents portails open data français 
 * [gouvdown](https://github.com/spyrales/gouvdown) par @RLesur, @tvroylandt, @MaelTheuliere, implémentation de la marque Etat pour ggplot et Rmarkdown.
+* [happign](https://github.com/paul-carteron/happign) par @paul-carteron : permet de télécharger les données de l'IGN à partir des flux WMS (raster) et WFS (vecteur) fournis par [IGN webservice](https://geoservices.ign.fr/services-web-experts) à partir d'une zone d'intérêt
 * [insee](https://inseefr.github.io/R-Insee-Data/) par @[hadrilec](https://github.com/hadrilec) : accéder à la base de données macroéconomiques de l'Insee
 * [inseeLocalData](https://github.com/InseeFrLab/inseeLocalData) : client R pour l'[API Données Locales](https://api.insee.fr/catalogue/site/themes/wso2/subthemes/insee/pages/item-info.jag?name=DonneesLocales&version=V0.1&provider=insee) de l'Insee.
 * [legislatives2017](https://github.com/ThinkR-open/legislatives2017) par @ThinkR-open : les données des élections législatives dans un package R
