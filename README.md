@@ -1,7 +1,8 @@
 # :rooster: frrrenchies :rooster:
-Liste de ressources R francophones ou utiles pour les Français.
 
-L'objectif est de répertorier les packages qui permettent de travailler avec des données concernant la France et les ressources pédagogiques ou d'entraide.
+Le répertoire collaboratif des **packages R** qui permettent de travailler avec des données concernant la France et des **ressources pédagogiques ou d'entraide francophones**.
+
+Caveat : Pour le moment, le répertoire est limité aux packages permettant de travaillant avec des données concernant la France mais on pourra très bien ouvrir à d'autres pays francophones.
 
 N'hésitez pas à contribuer !
 
