@@ -139,6 +139,7 @@ Autres ressources pédagogiques :
   - [Rencontres R 2018 Rennes](https://r2018-rennes.sciencesconf.org/)
   - [useR! 2019 Toulouse](http://www.user2019.fr/)
   - [Rencontres R 2020 AgroParisTech](https://paris2020.rencontresr.fr/) (reportées à 2021)
+  - [Rencontres R 2023 Avignon](https://rr2023.sciencesconf.org/)
 
 ## :hash: Bot Twitter :hash: 
 
